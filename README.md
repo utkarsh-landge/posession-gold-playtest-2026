@@ -6,4 +6,4 @@ WASD: move. Space: jump as the Spirit. E: possess or eject. Mouse: aim. Left cli
 
 Original team project: https://github.com/ruturaj-mohalkar-25/POSESSION
 
-Built from local source commit bf30783 on codex/gold-character-rooms. This repository contains only the compiled browser player.
+Built from local source commit 81e25c2 on codex/gold-character-rooms. This repository contains only the compiled browser player.
