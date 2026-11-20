@@ -1,0 +1,13 @@
+{
+  "source_repository": "https://github.com/ruturaj-mohalkar-25/POSESSION",
+  "source_commit": "0a8cb91cf53ad89c86bbd97c0433602adf7a8b57",
+  "unity": "6000.3.22f1",
+  "platform": "WebGL release",
+  "verified_at_utc": "2026-11-20T22:59:06.795845+00:00",
+  "playmode_tests": {
+    "passed": 296,
+    "failed": 0,
+    "skipped": 0
+  },
+  "browser_console_errors": 0
+}
