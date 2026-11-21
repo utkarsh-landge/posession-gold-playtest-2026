@@ -1,13 +1,17 @@
 {
-  "goal": "main",
-  "source_commit": "a38f306504157fe6c7b521fa2ba0de66f482a0f7",
-  "runtime_source": "28196fe",
+  "goal": "main corrections",
+  "source_commit": "8f10801f4eeaae61d3c63fe5ff71fdee5c34fa50",
+  "runtime_source_commit": "3f22ed1",
+  "tests": {
+    "total": 310,
+    "passed": 310,
+    "failed": 0,
+    "skipped": 0
+  },
   "features": [
-    "F soft directional and contact shadows for all actors",
-    "navy police cap, uniform, badge and visible sidearm",
-    "white and teal Spirit avatar",
-    "real-body warning blink and combat tint"
-  ],
-  "focused_tests_passed": 31,
-  "combined_full_tests_passed": 312
+    "solid hiding crates",
+    "distance-driven feet on Spirit/Guard/Heavy",
+    "cover blocks actual sight and red cone",
+    "F shadows and readable equipment"
+  ]
 }
