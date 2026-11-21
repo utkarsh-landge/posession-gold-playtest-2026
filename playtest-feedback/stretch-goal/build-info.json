@@ -1,0 +1,10 @@
+{
+  "goal": "USC room style stretch",
+  "source_commit": "d0313f1b624f7655166868ff755a325225238ec9",
+  "runtime_source_commit": "82d432c66213f99a9d3732aafe73af338eb73570",
+  "tests": {
+    "combined_passed": 312,
+    "failed": 0,
+    "skipped": 0
+  }
+}
