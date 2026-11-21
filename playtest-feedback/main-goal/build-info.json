@@ -5,7 +5,8 @@
   "tests": {
     "earlier_main_full": 310,
     "final_affected_suite": 46,
-    "failed": 0
+    "failed": 0,
+    "final_combined_suite_passed": 319
   },
   "features": [
     "3D solid hiding crates with noncoplanar trim",
