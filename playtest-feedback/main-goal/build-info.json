@@ -1,0 +1,13 @@
+{
+  "goal": "main",
+  "source_commit": "a38f306504157fe6c7b521fa2ba0de66f482a0f7",
+  "runtime_source": "28196fe",
+  "features": [
+    "F soft directional and contact shadows for all actors",
+    "navy police cap, uniform, badge and visible sidearm",
+    "white and teal Spirit avatar",
+    "real-body warning blink and combat tint"
+  ],
+  "focused_tests_passed": 31,
+  "combined_full_tests_passed": 312
+}
