@@ -1,17 +1,16 @@
 {
-  "goal": "main corrections",
-  "source_commit": "8f10801f4eeaae61d3c63fe5ff71fdee5c34fa50",
-  "runtime_source_commit": "3f22ed1",
+  "goal": "main corrections, stable crate",
+  "source_commit": "c57f923b129eb61eddd5e47f296c71e79a379c9b",
+  "runtime_source_commit": "2876b03",
   "tests": {
-    "total": 310,
-    "passed": 310,
-    "failed": 0,
-    "skipped": 0
+    "earlier_main_full": 310,
+    "final_affected_suite": 46,
+    "failed": 0
   },
   "features": [
-    "solid hiding crates",
-    "distance-driven feet on Spirit/Guard/Heavy",
-    "cover blocks actual sight and red cone",
-    "F shadows and readable equipment"
+    "3D solid hiding crates with noncoplanar trim",
+    "fixed opaque cover during camera occlusion",
+    "distance-driven Spirit Guard Heavy footsteps",
+    "cover blocks actual sight and red cone"
   ]
 }
