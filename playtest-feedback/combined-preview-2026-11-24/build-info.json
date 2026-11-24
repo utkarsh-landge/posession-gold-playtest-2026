@@ -1,0 +1,40 @@
+{
+  "base_commit": "1838ce251c08f55800d2382b4a04fc51b79107cd",
+  "source_repository": "ruturaj-mohalkar-25/POSESSION",
+  "mode": "separate local and shareable combined preview",
+  "pr_refs": {
+    "86": "dc40cc921cdac807a085f0eb3ab684d9c5a0081b",
+    "88": "d3fdec5dac6294233a1af4610b28a1181aa1d4f1"
+  },
+  "combined_source_commit": "63a51f6db2fde2c8b824915b86f2f1fcdb844e4a",
+  "audited_prs": [
+    "52",
+    "53",
+    "57",
+    "58",
+    "59",
+    "60",
+    "70",
+    "86",
+    "88"
+  ],
+  "runtime_prs_added": [
+    86,
+    88
+  ],
+  "tests": {
+    "full_suite_passed": 385,
+    "full_suite_stale_fixture_failures": 1,
+    "fixed_patrol_suite_passed": 3,
+    "fixed_patrol_suite_failed": 0,
+    "unique_tests_covered_after_correction": 386
+  },
+  "demo_level_buttons": [
+    "tutorial",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "notes": "Pending PRs remain unmerged. The source audit records additions and superseded older PRs."
+}
