@@ -1,0 +1,114 @@
+{
+  "commit": "46dd6858a60e28ba5eeb06eff0bfee0e66bf99b1",
+  "source": "origin/integration",
+  "tests": {
+    "passed": 39,
+    "failed": 0
+  },
+  "webglBuild": "succeeded",
+  "browserChecks": [
+    "Main menu loads",
+    "Guard / Heavy / Engineer portraits load",
+    "Escape returns home",
+    "Varsity outfit equips",
+    "Campaign locks visible",
+    "Level 1 launches with equipped outfit",
+    "Keyboard movement responds"
+  ],
+  "runtimeErrors": 0,
+  "warnings": [
+    "Unity persistentDataPath manual sync deprecation"
+  ],
+  "limitation": "Short browser smoke test; full campaign not completed. Existing first-level HUD says possess Guard while starting room shows Heavy.",
+  "pull_request": "https://github.com/ruturaj-mohalkar-25/POSESSION/pull/89",
+  "public_url": "https://utkarsh-landge.github.io/posession-gold-playtest-2026/pr-89/",
+  "packaged_on": "2026-11-27",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "43b0c90b0b35483d88d9298610d82c64928f798c3731088363b4ecb1b910a338",
+      "bytes": 5719
+    },
+    {
+      "path": "TemplateData/MemoryProfiler.png",
+      "sha256": "0ce87be20d0c24ab6cb73b57de2004da261cc2a641e69319c6ae3fe11fc85483",
+      "bytes": 665
+    },
+    {
+      "path": "TemplateData/fullscreen-button.png",
+      "sha256": "21221581673a54b8139d408d4a3f8d2b879e86827d4b6fc53b995ff7a99ee3e9",
+      "bytes": 175
+    },
+    {
+      "path": "TemplateData/unity-logo-dark.png",
+      "sha256": "c1b72d26c096487dabc948b54bc203f8dac7ed4e3f5733918798e858acb4b159",
+      "bytes": 3042
+    },
+    {
+      "path": "TemplateData/favicon.ico",
+      "sha256": "9c13beb90ee8f70580d52a21d5233970d1c89e71e4a34a462c22610941c3c77f",
+      "bytes": 2305
+    },
+    {
+      "path": "TemplateData/webmemd-icon.png",
+      "sha256": "c56f5494640cedda273aad38d58e6ab9da625d5b3f4d875c0ff92c6192a569c2",
+      "bytes": 1670
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-light.png",
+      "sha256": "143696c060ad43d6c30f19ff5f49000927a139a2a1e4c9f45fafaa2b90d7d2be",
+      "bytes": 109
+    },
+    {
+      "path": "TemplateData/style.css",
+      "sha256": "57644be6289a17420051026fbe152b5fc524c4a4abbb1202191ef5cc9ce89437",
+      "bytes": 1863
+    },
+    {
+      "path": "TemplateData/unity-logo-title-footer.png",
+      "sha256": "9e8b3bdb67c2446d16362fe59449d892100931dbbadfe6a9d923a4142b57a79f",
+      "bytes": 1151
+    },
+    {
+      "path": "TemplateData/progress-bar-full-dark.png",
+      "sha256": "3306a6244dcb3926fca38a28e3ced589df8ff1beed955eb17c0bbf01c918bc62",
+      "bytes": 74
+    },
+    {
+      "path": "TemplateData/progress-bar-full-light.png",
+      "sha256": "12395ea785480c5cdf12fade6e6cbf49666d5bb1cef7240c113dbcba6bdc5c87",
+      "bytes": 84
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-dark.png",
+      "sha256": "bbee7131afe8a3365906240d89184dc86234c119467f390bc4bc6802328fdb4d",
+      "bytes": 96
+    },
+    {
+      "path": "TemplateData/unity-logo-light.png",
+      "sha256": "002990aea0d946833cadc1519d5b7e50a4570bd537a0517dd79a59d3eec84da7",
+      "bytes": 3077
+    },
+    {
+      "path": "Build/bba52659adb0c705c831d567c6422123.data.unityweb",
+      "sha256": "513e89912f230c607d6d23d0b64b53832c27b486830da61cedc19fdff1f6b103",
+      "bytes": 7588062
+    },
+    {
+      "path": "Build/5eefa519d0e428415dca13cbdcd87763.wasm.unityweb",
+      "sha256": "e4e2e02d0e16afcfdc0b0036cdde7250dbf03513241e2f2efa0f36a431f5cfc9",
+      "bytes": 7949359
+    },
+    {
+      "path": "Build/c07024467ddb81a60040bab751dd128d.framework.js.unityweb",
+      "sha256": "cb63b92fa3cf15bf2e3a6b968a900b13069dbb7c9dcf50512c277d4192fd8ef9",
+      "bytes": 87453
+    },
+    {
+      "path": "Build/22fd4b3668ba02277498a3b7beccc9c1.loader.js",
+      "sha256": "2df527db9fbddd633eb526bf03b2f10d344209a8b8677bebe3ee08257b42be8f",
+      "bytes": 40317
+    }
+  ],
+  "verification_note": "Existing build and prior verification retained; packaging does not rerun Unity tests."
+}
